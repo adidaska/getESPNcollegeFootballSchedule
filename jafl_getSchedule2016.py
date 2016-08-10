@@ -8,7 +8,7 @@ from urllib.request import Request, urlopen
 from datetime import datetime
 from dateutil import tz
 
-outputFilePath = 'results/espnSchedule2016b.csv'
+outputFilePath = 'results/espnSchedule2016.csv'
 
 def giveMeGameRows(tag):
     return tag['class'] == 'oddrow' or tag['class'] == 'evenrow'
