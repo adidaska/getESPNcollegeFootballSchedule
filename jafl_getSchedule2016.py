@@ -8,6 +8,7 @@ from urllib.request import Request, urlopen
 from datetime import datetime
 from dateutil import tz
 
+outputFilePath = 'results/espnSchedule2016b.csv'
 
 def giveMeGameRows(tag):
     return tag['class'] == 'oddrow' or tag['class'] == 'evenrow'
@@ -81,9 +82,6 @@ def convertToLocalTime():
 
     
 
-outputFilePath = '/Users/adidaska/Dropbox/FootballPoolProject/PythonScripts/espnSchedule2016.csv'
-sampleTablePath = '/Users/adidaska/Dropbox/KIT/Python Work/sampleTable/sampleTable.html'
-#pathMain = "http://www.bestbuy.com/site/olstemplatemapper.jsp?id=pcat17096&type=page&strId=xxx&ld=28.520824&lg=-81.586365&rd=25&usc=abcat0101000&nrp=100&cp=1"
 
 
 getAllDiv1 = False
@@ -104,18 +102,8 @@ webTextSoup = BeautifulSoup(webPageText, "html.parser")
 finalTableText = ''
 allGameData = []
 
-#so things we need
-#year
-#weeks in the season on the site
-
-
-
-# first get the number of weeks from the list of links
-#weekSoup = webTextSoup.select("#schedule-page > form > fieldset > div.form-group.mobile > div:nth-child(2) > div > ul li")
 numberOfWeeks = 15 #just going to hard code this for now
-#len(weekSoup)
 currentYear = webTextSoup.select("#schedule-page > header > h1")[0].text[-4:]
-#print(currentYear)
 
 # loop through getting each week
 while week <= numberOfWeeks:
@@ -128,20 +116,9 @@ while week <= numberOfWeeks:
         webpage = urlopen(req).read().decode('utf-8')
         webPageText = webpage.replace('</tr></tr>','</tr>')
         webTextSoup = BeautifulSoup(webPageText, "html.parser")
-        
-
-    # so for 2015 the site was redone. each day is a table.
-    # the first row is the date and then the date is in the caption
-    # each tr in the table is a game.. the th had the column headers as should
-    
 
     tableSoup = webTextSoup.select('#sched-container')
-    #so the sched-container is the main container of the schedule
-    # then within it is an h2 with the date
-    # this h2 is following by a table with the games for that date
 
-    # so get a count of the dates
-    # then loop through 
 
     datesElementsSoup = webTextSoup.find_all('h2', class_='table-caption')
     datesElements = []
@@ -153,24 +130,9 @@ while week <= numberOfWeeks:
 
     for dayTable in tableSoup:
 
-        # row 1 = date
-        # table > tr > td -> date
         date = datesElements[index]
         index += 1
-        # need to format the date to mm/dd/yy
-        # row 2 = header class= colhead
-        # row 3+ = games
         gameRowList = dayTable.find_all("tr")
-        #gameRowList.pop(1)
-        #gameRowList.pop(0)
-
-        #for each week
-        #date of game - above > table caption
-        #time of game - gameInfo[2]
-        #location of gameInfo[4]
-        #listings - gameInfo[3]
-        #home team name - gameInfo[1]
-        #away team name - gameInfo[0]
 
 
         for rowItem in gameRowList:
@@ -180,7 +142,6 @@ while week <= numberOfWeeks:
 
                 time = ''
                 if gameInfo[2].get('data-date') != None:
-                    # print(requestString)
                     time = formatTime(gameInfo[2].get('data-date'))
                 homeTeam = getTeamName(gameInfo[1])
                 visTeam = getTeamName(gameInfo[0])
@@ -189,11 +150,8 @@ while week <= numberOfWeeks:
                 mobile = '' #gameInfo[3].string
                 dateString = formatDate(date, currentYear).strftime('%m/%d/%y')
                 displayName = '' #cleanDisplayString(visTeam + ' at ' + homeTeam)
-
                 gameData = [indexNum, week, visTeam, homeTeam, dateString, time, displayName, 'No', '', '', vs, station, mobile]
                 allGameData.append(gameData)
-                print(gameData)
-
 
             indexNum += 1
     week += 1
@@ -210,4 +168,4 @@ for data in allGameData:
     finalTableText += '\n'
 with open (outputFilePath, 'w') as myOutfile:
     myOutfile.write(finalTableText)
-print('done')
+print('the export has finished with ' + str(len(allGameData)) + ' games')
