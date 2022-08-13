@@ -1,0 +1,1085 @@
+IndexNum,Week,VisitorName,HomeTeam,GameDate,GameTime,DisplayValue,InPool,PointSpread,GameId,VS,Station,Mobile
+1,1,Nevada,New Mexico State,08/27/22,,,No,,,,,,
+2,1,Austin Peay,Western Kentucky,08/27/22,12:00:00 PM,,No,,,,,,
+3,1,Nebraska,Northwestern,08/27/22,12:30:00 PM,,No,,,,,,
+4,1,Idaho State,UNLV,08/27/22,03:30:00 PM,,No,,,,,,
+5,1,UConn,Utah State,08/27/22,04:00:00 PM,,No,,,,,,
+6,1,Wyoming,Illinois,08/27/22,04:00:00 PM,,No,,,,,,
+7,1,Duquesne,Florida State,08/27/22,05:00:00 PM,,No,,,,,,
+8,1,Charlotte,Florida Atlantic,08/27/22,07:00:00 PM,,No,,,,,,
+9,1,Florida A&M,North Carolina,08/27/22,08:15:00 PM,,No,,,,,,
+10,1,North Texas,UTEP,08/27/22,09:00:00 PM,,No,,,,,,
+11,1,Vanderbilt,Hawai'i,08/27/22,10:30:00 PM,,No,,,,,,
+12,1,St. Francis (PA),Akron,09/01/22,06:00:00 PM,,No,,,,,,
+13,1,Ball State,Tennessee,09/01/22,07:00:00 PM,,No,,,,,,
+14,1,West Virginia,Pittsburgh,09/01/22,07:00:00 PM,,No,,,,,,
+15,1,South Carolina State,UCF,09/01/22,07:00:00 PM,,No,,,,,,
+16,1,Central Michigan,Oklahoma State,09/01/22,07:00:00 PM,,No,,,,,,
+17,1,Bryant,Florida International,09/01/22,07:00:00 PM,,No,,,,,,
+18,1,Long Island University,Toledo,09/01/22,07:00:00 PM,,No,,,,,,
+19,1,VMI,Wake Forest,09/01/22,07:30:00 PM,,No,,,,,,
+20,1,Penn State,Purdue,09/01/22,08:00:00 PM,,No,,,,,,
+21,1,Eastern Illinois,Northern Illinois,09/01/22,08:00:00 PM,,No,,,,,,
+22,1,Alabama A&M,UAB,09/01/22,08:00:00 PM,,No,,,,,,
+23,1,Louisiana Tech,Missouri,09/01/22,08:00:00 PM,,No,,,,,,
+24,1,New Mexico State,Minnesota,09/01/22,09:00:00 PM,,No,,,,,,
+25,1,Northern Arizona,Arizona State,09/01/22,10:00:00 PM,,No,,,,,,
+26,1,Cal Poly,Fresno State,09/01/22,10:30:00 PM,,No,,,,,,
+27,1,Portland State,San José State,09/01/22,10:30:00 PM,,No,,,,,,
+28,1,Eastern Kentucky,Eastern Michigan,09/02/22,07:00:00 PM,,No,,,,,,
+29,1,Western Michigan,Michigan State,09/02/22,07:00:00 PM,,No,,,,,,
+30,1,Virginia Tech,Old Dominion,09/02/22,07:00:00 PM,,No,,,,,,
+31,1,William & Mary,Charlotte,09/02/22,07:00:00 PM,,No,,,,,,
+32,1,Temple,Duke,09/02/22,07:30:00 PM,,No,,,,,,
+33,1,Tennessee Tech,Kansas,09/02/22,08:00:00 PM,,No,,,,,,
+34,1,Illinois,Indiana,09/02/22,08:00:00 PM,,No,,,,,,
+35,1,TCU,Colorado,09/02/22,10:00:00 PM,,No,,,,,,
+36,1,Sam Houston,Texas A&M,09/03/22,12:00:00 PM,,No,,,,,,
+37,1,Central Connecticut,UConn,09/03/22,12:00:00 PM,,No,,,,,,
+38,1,South Dakota State,Iowa,09/03/22,12:00:00 PM,,No,,,,,,
+39,1,Buffalo,Maryland,09/03/22,12:00:00 PM,,No,,,,,,
+40,1,Colorado State,Michigan,09/03/22,12:00:00 PM,,No,,,,,,
+41,1,Rutgers,Boston College,09/03/22,12:00:00 PM,,No,,,,,,
+42,1,North Carolina,Appalachian State,09/03/22,12:00:00 PM,,No,,,,,,
+43,1,NC State,East Carolina,09/03/22,12:00:00 PM,,No,,,,,,
+44,1,Delaware,Navy,09/03/22,12:00:00 PM,,No,,,,,,
+45,1,Richmond,Virginia,09/03/22,12:30:00 PM,,No,,,,,,
+46,1,Northern Iowa,Air Force,09/03/22,01:00:00 PM,,No,,,,,,
+47,1,Southeast Missouri State,Iowa State,09/03/22,02:00:00 PM,,No,,,,,,
+48,1,Bowling Green,UCLA,09/03/22,02:30:00 PM,,No,,,,,,
+49,1,Cincinnati,Arkansas,09/03/22,03:30:00 PM,,No,,,,,,
+50,1,Oregon,Georgia,09/03/22,03:30:00 PM,,No,,,,,,
+51,1,Arizona,San Diego State,09/03/22,03:30:00 PM,,No,,,,,,
+52,1,North Dakota,Nebraska,09/03/22,03:30:00 PM,,No,,,,,,
+53,1,Bethune-Cookman,Miami,09/03/22,03:30:00 PM,,No,,,,,,
+54,1,Norfolk State,Marshall,09/03/22,03:30:00 PM,,No,,,,,,
+55,1,Tulsa,Wyoming,09/03/22,03:30:00 PM,,No,,,,,,
+56,1,UTEP,Oklahoma,09/03/22,03:30:00 PM,,No,,,,,,
+57,1,Houston,UTSA,09/03/22,03:30:00 PM,,No,,,,,,
+58,1,Troy,Ole Miss,09/03/22,04:00:00 PM,,No,,,,,,
+59,1,UC Davis,California,09/03/22,04:00:00 PM,,No,,,,,,
+60,1,BYU,South Florida,09/03/22,04:00:00 PM,,No,,,,,,
+61,1,Nicholls,South Alabama,09/03/22,05:00:00 PM,,No,,,,,,
+62,1,Texas State,Nevada,09/03/22,05:30:00 PM,,No,,,,,,
+63,1,Morgan State,Georgia Southern,09/03/22,06:00:00 PM,,No,,,,,,
+64,1,Florida Atlantic,Ohio,09/03/22,06:00:00 PM,,No,,,,,,
+65,1,Middle Tennessee,James Madison,09/03/22,06:00:00 PM,,No,,,,,,
+66,1,Rice,USC,09/03/22,06:00:00 PM,,No,,,,,,
+67,1,Mercer,Auburn,09/03/22,07:00:00 PM,,No,,,,,,
+68,1,Utah,Florida,09/03/22,07:00:00 PM,,No,,,,,,
+69,1,Miami (OH),Kentucky,09/03/22,07:00:00 PM,,No,,,,,,
+70,1,Elon,Vanderbilt,09/03/22,07:00:00 PM,,No,,,,,,
+71,1,South Dakota,Kansas State,09/03/22,07:00:00 PM,,No,,,,,,
+72,1,Army,Coastal Carolina,09/03/22,07:00:00 PM,,No,,,,,,
+73,1,Liberty,Southern Miss,09/03/22,07:00:00 PM,,No,,,,,,
+74,1,Illinois State,Wisconsin,09/03/22,07:00:00 PM,,No,,,,,,
+75,1,UMass,Tulane,09/03/22,07:00:00 PM,,No,,,,,,
+76,1,SE Louisiana,Louisiana,09/03/22,07:00:00 PM,,No,,,,,,
+77,1,Albany,Baylor,09/03/22,07:00:00 PM,,No,,,,,,
+78,1,Grambling,Arkansas State,09/03/22,07:00:00 PM,,No,,,,,,
+79,1,Utah State,Alabama,09/03/22,07:30:00 PM,,No,,,,,,
+80,1,Memphis,Mississippi State,09/03/22,07:30:00 PM,,No,,,,,,
+81,1,Georgia State,South Carolina,09/03/22,07:30:00 PM,,No,,,,,,
+82,1,Notre Dame,Ohio State,09/03/22,07:30:00 PM,,No,,,,,,
+83,1,SMU,North Texas,09/03/22,07:30:00 PM,,No,,,,,,
+84,1,Colgate,Stanford,09/03/22,08:00:00 PM,,No,,,,,,
+85,1,Murray State,Texas Tech,09/03/22,08:00:00 PM,,No,,,,,,
+86,1,UL Monroe,Texas,09/03/22,08:00:00 PM,,No,,,,,,
+87,1,Louisville,Syracuse,09/03/22,08:00:00 PM,,No,,,,,,
+88,1,Maine,New Mexico,09/03/22,08:00:00 PM,,No,,,,,,
+89,1,Idaho,Washington State,09/03/22,09:30:00 PM,,No,,,,,,
+90,1,Boise State,Oregon State,09/03/22,10:30:00 PM,,No,,,,,,
+91,1,Kent State,Washington,09/03/22,10:30:00 PM,,No,,,,,,
+92,1,Western Kentucky,Hawai'i,09/03/22,11:59:00 PM,,No,,,,,,
+93,1,Florida State,LSU,09/04/22,07:30:00 PM,,No,,,,,,
+94,1,Clemson,Georgia Tech,09/05/22,08:00:00 PM,,No,,,,,,
+95,2,Louisville,UCF,09/09/22,07:30:00 PM,,No,,,,,,
+96,2,Boise State,New Mexico,09/09/22,09:00:00 PM,,No,,,,,,
+97,2,Idaho State,San Diego State,09/10/22,,,No,,,,,,
+98,2,Alabama,Texas,09/10/22,12:00:00 PM,,No,,,,,,
+99,2,South Carolina,Arkansas,09/10/22,12:00:00 PM,,No,,,,,,
+100,2,Missouri,Kansas State,09/10/22,12:00:00 PM,,No,,,,,,
+101,2,Wake Forest,Vanderbilt,09/10/22,12:00:00 PM,,No,,,,,,
+102,2,Western Illinois,Minnesota,09/10/22,12:00:00 PM,,No,,,,,,
+103,2,Duke,Northwestern,09/10/22,12:00:00 PM,,No,,,,,,
+104,2,Arkansas State,Ohio State,09/10/22,12:00:00 PM,,No,,,,,,
+105,2,Ohio,Penn State,09/10/22,12:00:00 PM,,No,,,,,,
+106,2,North Carolina,Georgia State,09/10/22,12:00:00 PM,,No,,,,,,
+107,2,Southern Miss,Miami,09/10/22,12:00:00 PM,,No,,,,,,
+108,2,UTSA,Army,09/10/22,12:00:00 PM,,No,,,,,,
+109,2,Charleston Southern,NC State,09/10/22,12:30:00 PM,,No,,,,,,
+110,2,South Alabama,Central Michigan,09/10/22,01:00:00 PM,,No,,,,,,
+111,2,Southern Utah,Utah,09/10/22,01:30:00 PM,,No,,,,,,
+112,2,Lafayette,Temple,09/10/22,02:00:00 PM,,No,,,,,,
+113,2,Western Michigan,Ball State,09/10/22,02:00:00 PM,,No,,,,,,
+114,2,Marshall,Notre Dame,09/10/22,02:30:00 PM,,No,,,,,,
+115,2,Tennessee,Pittsburgh,09/10/22,03:30:00 PM,,No,,,,,,
+116,2,Appalachian State,Texas A&M,09/10/22,03:30:00 PM,,No,,,,,,
+117,2,Colorado,Air Force,09/10/22,03:30:00 PM,,No,,,,,,
+118,2,Washington State,Wisconsin,09/10/22,03:30:00 PM,,No,,,,,,
+119,2,Furman,Clemson,09/10/22,03:30:00 PM,,No,,,,,,
+120,2,Memphis,Navy,09/10/22,03:30:00 PM,,No,,,,,,
+121,2,Kennesaw State,Cincinnati,09/10/22,03:30:00 PM,,No,,,,,,
+122,2,Maryland,Charlotte,09/10/22,03:30:00 PM,,No,,,,,,
+123,2,Samford,Georgia,09/10/22,04:00:00 PM,,No,,,,,,
+124,2,UNLV,California,09/10/22,04:00:00 PM,,No,,,,,,
+125,2,Portland State,Washington,09/10/22,04:00:00 PM,,No,,,,,,
+126,2,Houston,Texas Tech,09/10/22,04:00:00 PM,,No,,,,,,
+127,2,Iowa State,Iowa,09/10/22,04:00:00 PM,,No,,,,,,
+128,2,Virginia,Illinois,09/10/22,04:00:00 PM,,No,,,,,,
+129,2,Indiana State,Purdue,09/10/22,04:00:00 PM,,No,,,,,,
+130,2,Akron,Michigan State,09/10/22,04:00:00 PM,,No,,,,,,
+131,2,Wagner,Rutgers,09/10/22,04:00:00 PM,,No,,,,,,
+132,2,Northern Colorado,Wyoming,09/10/22,04:00:00 PM,,No,,,,,,
+133,2,Eastern Kentucky,Bowling Green,09/10/22,04:00:00 PM,,No,,,,,,
+134,2,Norfolk State,James Madison,09/10/22,04:00:00 PM,,No,,,,,,
+135,2,Middle Tennessee,Colorado State,09/10/22,04:00:00 PM,,No,,,,,,
+136,2,Alabama State,UCLA,09/10/22,05:00:00 PM,,No,,,,,,
+137,2,Incarnate Word,Nevada,09/10/22,05:30:00 PM,,No,,,,,,
+138,2,Kansas,West Virginia,09/10/22,06:00:00 PM,,No,,,,,,
+139,2,Old Dominion,East Carolina,09/10/22,06:00:00 PM,,No,,,,,,
+140,2,Holy Cross,Buffalo,09/10/22,06:00:00 PM,,No,,,,,,
+141,2,Robert Morris,Miami (OH),09/10/22,06:00:00 PM,,No,,,,,,
+142,2,Gardner-Webb,Coastal Carolina,09/10/22,06:00:00 PM,,No,,,,,,
+143,2,SE Louisiana,Florida Atlantic,09/10/22,06:00:00 PM,,No,,,,,,
+144,2,UAB,Liberty,09/10/22,06:00:00 PM,,No,,,,,,
+145,2,Kentucky,Florida,09/10/22,07:00:00 PM,,No,,,,,,
+146,2,Central Arkansas,Ole Miss,09/10/22,07:00:00 PM,,No,,,,,,
+147,2,Kent State,Oklahoma,09/10/22,07:00:00 PM,,No,,,,,,
+148,2,Syracuse,UConn,09/10/22,07:00:00 PM,,No,,,,,,
+149,2,Western Carolina,Georgia Tech,09/10/22,07:00:00 PM,,No,,,,,,
+150,2,UMass,Toledo,09/10/22,07:00:00 PM,,No,,,,,,
+151,2,Weber State,Utah State,09/10/22,07:00:00 PM,,No,,,,,,
+152,2,Alcorn State,Tulane,09/10/22,07:00:00 PM,,No,,,,,,
+153,2,Lamar,SMU,09/10/22,07:00:00 PM,,No,,,,,,
+154,2,Howard,South Florida,09/10/22,07:00:00 PM,,No,,,,,,
+155,2,Northern Illinois,Tulsa,09/10/22,07:00:00 PM,,No,,,,,,
+156,2,Eastern Michigan,Louisiana,09/10/22,07:00:00 PM,,No,,,,,,
+157,2,Alabama A&M,Troy,09/10/22,07:00:00 PM,,No,,,,,,
+158,2,Florida International,Texas State,09/10/22,07:00:00 PM,,No,,,,,,
+159,2,Stephen F. Austin,Louisiana Tech,09/10/22,07:00:00 PM,,No,,,,,,
+160,2,San José State,Auburn,09/10/22,07:30:00 PM,,No,,,,,,
+161,2,Southern,LSU,09/10/22,07:30:00 PM,,No,,,,,,
+162,2,Arizona State,Oklahoma State,09/10/22,07:30:00 PM,,No,,,,,,
+163,2,USC,Stanford,09/10/22,07:30:00 PM,,No,,,,,,
+164,2,Georgia Southern,Nebraska,09/10/22,07:30:00 PM,,No,,,,,,
+165,2,Texas Southern,North Texas,09/10/22,07:30:00 PM,,No,,,,,,
+166,2,McNeese,Rice,09/10/22,07:30:00 PM,,No,,,,,,
+167,2,Tarleton,TCU,09/10/22,08:00:00 PM,,No,,,,,,
+168,2,Idaho,Indiana,09/10/22,08:00:00 PM,,No,,,,,,
+169,2,Hawai'i,Michigan,09/10/22,08:00:00 PM,,No,,,,,,
+170,2,Boston College,Virginia Tech,09/10/22,08:00:00 PM,,No,,,,,,
+171,2,Nicholls,UL Monroe,09/10/22,08:00:00 PM,,No,,,,,,
+172,2,Eastern Washington,Oregon,09/10/22,08:30:00 PM,,No,,,,,,
+173,2,New Mexico State,UTEP,09/10/22,09:00:00 PM,,No,,,,,,
+174,2,Baylor,BYU,09/10/22,10:15:00 PM,,No,,,,,,
+175,2,Oregon State,Fresno State,09/10/22,10:30:00 PM,,No,,,,,,
+176,2,Mississippi State,Arizona,09/10/22,11:00:00 PM,,No,,,,,,
+177,3,Florida State,Louisville,09/16/22,07:30:00 PM,,No,,,,,,
+178,3,Air Force,Wyoming,09/16/22,08:00:00 PM,,No,,,,,,
+179,3,Stony Brook,UMass,09/17/22,,,No,,,,,,
+180,3,Wofford,Virginia Tech,09/17/22,11:00:00 AM,,No,,,,,,
+181,3,Youngstown State,Kentucky,09/17/22,12:00:00 PM,,No,,,,,,
+182,3,Abilene Christian,Missouri,09/17/22,12:00:00 PM,,No,,,,,,
+183,3,Georgia,South Carolina,09/17/22,12:00:00 PM,,No,,,,,,
+184,3,Oklahoma,Nebraska,09/17/22,12:00:00 PM,,No,,,,,,
+185,3,Texas State,Baylor,09/17/22,12:00:00 PM,,No,,,,,,
+186,3,Villanova,Army,09/17/22,12:00:00 PM,,No,,,,,,
+187,3,UConn,Michigan,09/17/22,12:00:00 PM,,No,,,,,,
+188,3,Southern Illinois,Northwestern,09/17/22,12:00:00 PM,,No,,,,,,
+189,3,Purdue,Syracuse,09/17/22,12:00:00 PM,,No,,,,,,
+190,3,Cincinnati,Miami (OH),09/17/22,12:00:00 PM,,No,,,,,,
+191,3,Long Island University,Kent State,09/17/22,12:00:00 PM,,No,,,,,,
+192,3,Western Kentucky,Indiana,09/17/22,12:00:00 PM,,No,,,,,,
+193,3,Towson,West Virginia,09/17/22,01:00:00 PM,,No,,,,,,
+194,3,Buffalo,Coastal Carolina,09/17/22,01:00:00 PM,,No,,,,,,
+195,3,Bucknell,Central Michigan,09/17/22,01:00:00 PM,,No,,,,,,
+196,3,South Alabama,UCLA,09/17/22,02:00:00 PM,,No,,,,,,
+197,3,Ohio,Iowa State,09/17/22,02:00:00 PM,,No,,,,,,
+198,3,Rutgers,Temple,09/17/22,02:00:00 PM,,No,,,,,,
+199,3,Old Dominion,Virginia,09/17/22,02:00:00 PM,,No,,,,,,
+200,3,Murray State,Ball State,09/17/22,02:00:00 PM,,No,,,,,,
+201,3,California,Notre Dame,09/17/22,02:30:00 PM,,No,,,,,,
+202,3,Tulane,Kansas State,09/17/22,03:00:00 PM,,No,,,,,,
+203,3,North Texas,UNLV,09/17/22,03:00:00 PM,,No,,,,,,
+204,3,Penn State,Auburn,09/17/22,03:30:00 PM,,No,,,,,,
+205,3,Ole Miss,Georgia Tech,09/17/22,03:30:00 PM,,No,,,,,,
+206,3,Vanderbilt,Northern Illinois,09/17/22,03:30:00 PM,,No,,,,,,
+207,3,Colorado,Minnesota,09/17/22,03:30:00 PM,,No,,,,,,
+208,3,BYU,Oregon,09/17/22,03:30:00 PM,,No,,,,,,
+209,3,New Mexico State,Wisconsin,09/17/22,03:30:00 PM,,No,,,,,,
+210,3,Troy,Appalachian State,09/17/22,03:30:00 PM,,No,,,,,,
+211,3,Georgia Southern,UAB,09/17/22,03:30:00 PM,,No,,,,,,
+212,3,UL Monroe,Alabama,09/17/22,04:00:00 PM,,No,,,,,,
+213,3,Kansas,Houston,09/17/22,04:00:00 PM,,No,,,,,,
+214,3,UT Martin,Boise State,09/17/22,04:00:00 PM,,No,,,,,,
+215,3,Colorado State,Washington State,09/17/22,05:00:00 PM,,No,,,,,,
+216,3,Liberty,Wake Forest,09/17/22,05:00:00 PM,,No,,,,,,
+217,3,Marshall,Bowling Green,09/17/22,05:00:00 PM,,No,,,,,,
+218,3,Mississippi State,LSU,09/17/22,06:00:00 PM,,No,,,,,,
+219,3,North Carolina A&T,Duke,09/17/22,06:00:00 PM,,No,,,,,,
+220,3,Campbell,East Carolina,09/17/22,06:00:00 PM,,No,,,,,,
+221,3,Missouri State,Arkansas,09/17/22,07:00:00 PM,,No,,,,,,
+222,3,Akron,Tennessee,09/17/22,07:00:00 PM,,No,,,,,,
+223,3,Texas Tech,NC State,09/17/22,07:00:00 PM,,No,,,,,,
+224,3,Arkansas-Pine Bluff,Oklahoma State,09/17/22,07:00:00 PM,,No,,,,,,
+225,3,Toledo,Ohio State,09/17/22,07:00:00 PM,,No,,,,,,
+226,3,Jacksonville State,Tulsa,09/17/22,07:00:00 PM,,No,,,,,,
+227,3,Northwestern State,Southern Miss,09/17/22,07:00:00 PM,,No,,,,,,
+228,3,Arkansas State,Memphis,09/17/22,07:00:00 PM,,No,,,,,,
+229,3,Charlotte,Georgia State,09/17/22,07:00:00 PM,,No,,,,,,
+230,3,Tennessee State,Middle Tennessee,09/17/22,07:00:00 PM,,No,,,,,,
+231,3,South Florida,Florida,09/17/22,07:30:00 PM,,No,,,,,,
+232,3,Michigan State,Washington,09/17/22,07:30:00 PM,,No,,,,,,
+233,3,Nevada,Iowa,09/17/22,07:30:00 PM,,No,,,,,,
+234,3,SMU,Maryland,09/17/22,07:30:00 PM,,No,,,,,,
+235,3,Maine,Boston College,09/17/22,07:30:00 PM,,No,,,,,,
+236,3,Pittsburgh,Western Michigan,09/17/22,07:30:00 PM,,No,,,,,,
+237,3,UCF,Florida Atlantic,09/17/22,07:30:00 PM,,No,,,,,,
+238,3,Louisiana,Rice,09/17/22,07:30:00 PM,,No,,,,,,
+239,3,Montana State,Oregon State,09/17/22,08:00:00 PM,,No,,,,,,
+240,3,Louisiana Tech,Clemson,09/17/22,08:00:00 PM,,No,,,,,,
+241,3,UTEP,New Mexico,09/17/22,08:00:00 PM,,No,,,,,,
+242,3,UTSA,Texas,09/17/22,08:00:00 PM,,No,,,,,,
+243,3,Miami,Texas A&M,09/17/22,09:00:00 PM,,No,,,,,,
+244,3,San Diego State,Utah,09/17/22,10:00:00 PM,,No,,,,,,
+245,3,Fresno State,USC,09/17/22,10:30:00 PM,,No,,,,,,
+246,3,North Dakota State,Arizona,09/17/22,11:00:00 PM,,No,,,,,,
+247,3,Eastern Michigan,Arizona State,09/17/22,11:00:00 PM,,No,,,,,,
+248,3,Duquesne,Hawai'i,09/17/22,11:59:00 PM,,No,,,,,,
+249,4,West Virginia,Virginia Tech,09/22/22,07:30:00 PM,,No,,,,,,
+250,4,Coastal Carolina,Georgia State,09/22/22,07:30:00 PM,,No,,,,,,
+251,4,Chattanooga,Illinois,09/22/22,08:30:00 PM,,No,,,,,,
+252,4,Virginia,Syracuse,09/23/22,07:00:00 PM,,No,,,,,,
+253,4,Nevada,Air Force,09/23/22,08:00:00 PM,,No,,,,,,
+254,4,Boise State,UTEP,09/23/22,09:00:00 PM,,No,,,,,,
+255,4,Vanderbilt,Alabama,09/24/22,,,No,,,,,,
+256,4,Arkansas,Texas A&M,09/24/22,,,No,,,,,,
+257,4,Missouri,Auburn,09/24/22,,,No,,,,,,
+258,4,Northern Illinois,Kentucky,09/24/22,,,No,,,,,,
+259,4,Tulsa,Ole Miss,09/24/22,,,No,,,,,,
+260,4,Bowling Green,Mississippi State,09/24/22,,,No,,,,,,
+261,4,Florida,Tennessee,09/24/22,,,No,,,,,,
+262,4,Arizona,California,09/24/22,,,No,,,,,,
+263,4,Utah,Arizona State,09/24/22,,,No,,,,,,
+264,4,UCLA,Colorado,09/24/22,,,No,,,,,,
+265,4,Oregon,Washington State,09/24/22,,,No,,,,,,
+266,4,USC,Oregon State,09/24/22,,,No,,,,,,
+267,4,Stanford,Washington,09/24/22,,,No,,,,,,
+268,4,TCU,SMU,09/24/22,,,No,,,,,,
+269,4,Duke,Kansas,09/24/22,,,No,,,,,,
+270,4,Baylor,Iowa State,09/24/22,,,No,,,,,,
+271,4,Kansas State,Oklahoma,09/24/22,,,No,,,,,,
+272,4,Texas,Texas Tech,09/24/22,,,No,,,,,,
+273,4,Notre Dame,North Carolina,09/24/22,,,No,,,,,,
+274,4,UConn,NC State,09/24/22,,,No,,,,,,
+275,4,Akron,Liberty,09/24/22,,,No,,,,,,
+276,4,Iowa,Rutgers,09/24/22,,,No,,,,,,
+277,4,Minnesota,Michigan State,09/24/22,,,No,,,,,,
+278,4,Miami (OH),Northwestern,09/24/22,,,No,,,,,,
+279,4,Wisconsin,Ohio State,09/24/22,,,No,,,,,,
+280,4,Indiana,Cincinnati,09/24/22,,,No,,,,,,
+281,4,Central Michigan,Penn State,09/24/22,,,No,,,,,,
+282,4,Hawai'i,New Mexico State,09/24/22,,,No,,,,,,
+283,4,Boston College,Florida State,09/24/22,,,No,,,,,,
+284,4,South Florida,Louisville,09/24/22,,,No,,,,,,
+285,4,Rhode Island,Pittsburgh,09/24/22,,,No,,,,,,
+286,4,Georgia Tech,UCF,09/24/22,,,No,,,,,,
+287,4,Clemson,Wake Forest,09/24/22,,,No,,,,,,
+288,4,UMass,Temple,09/24/22,,,No,,,,,,
+289,4,James Madison,Appalachian State,09/24/22,,,No,,,,,,
+290,4,Southern Miss,Tulane,09/24/22,,,No,,,,,,
+291,4,Wyoming,BYU,09/24/22,,,No,,,,,,
+292,4,Toledo,San Diego State,09/24/22,,,No,,,,,,
+293,4,Navy,East Carolina,09/24/22,,,No,,,,,,
+294,4,Buffalo,Eastern Michigan,09/24/22,,,No,,,,,,
+295,4,Fordham,Ohio,09/24/22,,,No,,,,,,
+296,4,Arkansas State,Old Dominion,09/24/22,,,No,,,,,,
+297,4,Charlotte,South Carolina,09/24/22,,,No,,,,,,
+298,4,Louisiana Tech,South Alabama,09/24/22,,,No,,,,,,
+299,4,Middle Tennessee,Miami,09/24/22,,,No,,,,,,
+300,4,North Texas,Memphis,09/24/22,,,No,,,,,,
+301,4,Rice,Houston,09/24/22,,,No,,,,,,
+302,4,Kent State,Georgia,09/24/22,12:00:00 PM,,No,,,,,,
+303,4,Maryland,Michigan,09/24/22,12:00:00 PM,,No,,,,,,
+304,4,Florida International,Western Kentucky,09/24/22,03:30:00 PM,,No,,,,,,
+305,4,Texas Southern,UTSA,09/24/22,03:30:00 PM,,No,,,,,,
+306,4,Sacramento State,Colorado State,09/24/22,04:00:00 PM,,No,,,,,,
+307,4,Ball State,Georgia Southern,09/24/22,06:00:00 PM,,No,,,,,,
+308,4,UNLV,Utah State,09/24/22,07:00:00 PM,,No,,,,,,
+309,4,Houston Baptist,Texas State,09/24/22,07:00:00 PM,,No,,,,,,
+310,4,Marshall,Troy,09/24/22,07:00:00 PM,,No,,,,,,
+311,4,New Mexico,LSU,09/24/22,07:30:00 PM,,No,,,,,,
+312,4,Florida Atlantic,Purdue,09/24/22,07:30:00 PM,,No,,,,,,
+313,4,Louisiana,UL Monroe,09/24/22,08:00:00 PM,,No,,,,,,
+314,4,Western Michigan,San José State,09/24/22,10:30:00 PM,,No,,,,,,
+315,5,Utah State,BYU,09/29/22,08:00:00 PM,,No,,,,,,
+316,5,Tulane,Houston,09/30/22,07:00:00 PM,,No,,,,,,
+317,5,UTSA,Middle Tennessee,09/30/22,07:30:00 PM,,No,,,,,,
+318,5,San Diego State,Boise State,09/30/22,08:00:00 PM,,No,,,,,,
+319,5,Washington,UCLA,09/30/22,10:30:00 PM,,No,,,,,,
+320,5,New Mexico,UNLV,09/30/22,11:00:00 PM,,No,,,,,,
+321,5,Alabama,Arkansas,10/01/22,,,No,,,,,,
+322,5,LSU,Auburn,10/01/22,,,No,,,,,,
+323,5,Kentucky,Ole Miss,10/01/22,,,No,,,,,,
+324,5,Texas A&M,Mississippi State,10/01/22,,,No,,,,,,
+325,5,Georgia,Missouri,10/01/22,,,No,,,,,,
+326,5,South Carolina State,South Carolina,10/01/22,,,No,,,,,,
+327,5,Colorado,Arizona,10/01/22,,,No,,,,,,
+328,5,Arizona State,USC,10/01/22,,,No,,,,,,
+329,5,California,Washington State,10/01/22,,,No,,,,,,
+330,5,Stanford,Oregon,10/01/22,,,No,,,,,,
+331,5,Oregon State,Utah,10/01/22,,,No,,,,,,
+332,5,Oklahoma State,Baylor,10/01/22,,,No,,,,,,
+333,5,Iowa State,Kansas,10/01/22,,,No,,,,,,
+334,5,Texas Tech,Kansas State,10/01/22,,,No,,,,,,
+335,5,Oklahoma,TCU,10/01/22,,,No,,,,,,
+336,5,West Virginia,Texas,10/01/22,,,No,,,,,,
+337,5,Liberty,Old Dominion,10/01/22,,,No,,,,,,
+338,5,Illinois,Wisconsin,10/01/22,,,No,,,,,,
+339,5,Michigan,Iowa,10/01/22,,,No,,,,,,
+340,5,Indiana,Nebraska,10/01/22,,,No,,,,,,
+341,5,Michigan State,Maryland,10/01/22,,,No,,,,,,
+342,5,Northwestern,Penn State,10/01/22,,,No,,,,,,
+343,5,Louisville,Boston College,10/01/22,,,No,,,,,,
+344,5,NC State,Clemson,10/01/22,,,No,,,,,,
+345,5,Virginia,Duke,10/01/22,,,No,,,,,,
+346,5,Wake Forest,Florida State,10/01/22,,,No,,,,,,
+347,5,Virginia Tech,North Carolina,10/01/22,,,No,,,,,,
+348,5,Georgia Tech,Pittsburgh,10/01/22,,,No,,,,,,
+349,5,Wagner,Syracuse,10/01/22,,,No,,,,,,
+350,5,East Carolina,South Florida,10/01/22,,,No,,,,,,
+351,5,Cincinnati,Tulsa,10/01/22,,,No,,,,,,
+352,5,Temple,Memphis,10/01/22,,,No,,,,,,
+353,5,SMU,UCF,10/01/22,,,No,,,,,,
+354,5,Northern Illinois,Ball State,10/01/22,,,No,,,,,,
+355,5,New Hampshire,Western Michigan,10/01/22,,,No,,,,,,
+356,5,The Citadel,Appalachian State,10/01/22,,,No,,,,,,
+357,5,Georgia Southern,Coastal Carolina,10/01/22,,,No,,,,,,
+358,5,Texas State,James Madison,10/01/22,,,No,,,,,,
+359,5,Gardner-Webb,Marshall,10/01/22,,,No,,,,,,
+360,5,UL Monroe,Arkansas State,10/01/22,,,No,,,,,,
+361,5,South Alabama,Louisiana,10/01/22,,,No,,,,,,
+362,5,Florida International,New Mexico State,10/01/22,,,No,,,,,,
+363,5,Eastern Washington,Florida,10/01/22,12:00:00 PM,,No,,,,,,
+364,5,Georgia State,Army,10/01/22,12:00:00 PM,,No,,,,,,
+365,5,Purdue,Minnesota,10/01/22,12:00:00 PM,,No,,,,,,
+366,5,Navy,Air Force,10/01/22,12:00:00 PM,,No,,,,,,
+367,5,UMass,Eastern Michigan,10/01/22,02:00:00 PM,,No,,,,,,
+368,5,Fresno State,UConn,10/01/22,03:30:00 PM,,No,,,,,,
+369,5,Rutgers,Ohio State,10/01/22,03:30:00 PM,,No,,,,,,
+370,5,Central Michigan,Toledo,10/01/22,03:30:00 PM,,No,,,,,,
+371,5,Bowling Green,Akron,10/01/22,03:30:00 PM,,No,,,,,,
+372,5,Miami (OH),Buffalo,10/01/22,03:30:00 PM,,No,,,,,,
+373,5,Ohio,Kent State,10/01/22,03:30:00 PM,,No,,,,,,
+374,5,Florida Atlantic,North Texas,10/01/22,04:00:00 PM,,No,,,,,,
+375,5,UTEP,Charlotte,10/01/22,06:00:00 PM,,No,,,,,,
+376,5,Troy,Western Kentucky,10/01/22,07:00:00 PM,,No,,,,,,
+377,5,San José State,Wyoming,10/01/22,07:30:00 PM,,No,,,,,,
+378,5,UAB,Rice,10/01/22,07:30:00 PM,,No,,,,,,
+379,6,Nebraska,Rutgers,10/07/22,07:00:00 PM,,No,,,,,,
+380,6,Houston,Memphis,10/07/22,07:30:00 PM,,No,,,,,,
+381,6,Colorado State,Nevada,10/07/22,10:30:00 PM,,No,,,,,,
+382,6,UNLV,San José State,10/07/22,10:30:00 PM,,No,,,,,,
+383,6,Texas A&M,Alabama,10/08/22,,,No,,,,,,
+384,6,Missouri,Florida,10/08/22,,,No,,,,,,
+385,6,Auburn,Georgia,10/08/22,,,No,,,,,,
+386,6,South Carolina,Kentucky,10/08/22,,,No,,,,,,
+387,6,Tennessee,LSU,10/08/22,,,No,,,,,,
+388,6,Arkansas,Mississippi State,10/08/22,,,No,,,,,,
+389,6,Ole Miss,Vanderbilt,10/08/22,,,No,,,,,,
+390,6,Oregon,Arizona,10/08/22,,,No,,,,,,
+391,6,Washington,Arizona State,10/08/22,,,No,,,,,,
+392,6,Oregon State,Stanford,10/08/22,,,No,,,,,,
+393,6,Utah,UCLA,10/08/22,,,No,,,,,,
+394,6,Washington State,USC,10/08/22,,,No,,,,,,
+395,6,Kansas State,Iowa State,10/08/22,,,No,,,,,,
+396,6,TCU,Kansas,10/08/22,,,No,,,,,,
+397,6,Texas,Oklahoma,10/08/22,,,No,,,,,,
+398,6,Texas Tech,Oklahoma State,10/08/22,,,No,,,,,,
+399,6,Army,Wake Forest,10/08/22,,,No,,,,,,
+400,6,Liberty,UMass,10/08/22,,,No,,,,,,
+401,6,Iowa,Illinois,10/08/22,,,No,,,,,,
+402,6,Wisconsin,Northwestern,10/08/22,,,No,,,,,,
+403,6,Purdue,Maryland,10/08/22,,,No,,,,,,
+404,6,Ohio State,Michigan State,10/08/22,,,No,,,,,,
+405,6,Clemson,Boston College,10/08/22,,,No,,,,,,
+406,6,Duke,Georgia Tech,10/08/22,,,No,,,,,,
+407,6,North Carolina,Miami,10/08/22,,,No,,,,,,
+408,6,Florida State,NC State,10/08/22,,,No,,,,,,
+409,6,Virginia Tech,Pittsburgh,10/08/22,,,No,,,,,,
+410,6,Louisville,Virginia,10/08/22,,,No,,,,,,
+411,6,Air Force,Utah State,10/08/22,,,No,,,,,,
+412,6,Fresno State,Boise State,10/08/22,,,No,,,,,,
+413,6,East Carolina,Tulane,10/08/22,,,No,,,,,,
+414,6,South Florida,Cincinnati,10/08/22,,,No,,,,,,
+415,6,Eastern Michigan,Western Michigan,10/08/22,,,No,,,,,,
+416,6,Buffalo,Bowling Green,10/08/22,,,No,,,,,,
+417,6,Georgia Southern,Georgia State,10/08/22,,,No,,,,,,
+418,6,James Madison,Arkansas State,10/08/22,,,No,,,,,,
+419,6,Michigan,Indiana,10/08/22,12:00:00 PM,,No,,,,,,
+420,6,Akron,Ohio,10/08/22,02:00:00 PM,,No,,,,,,
+421,6,Tulsa,Navy,10/08/22,03:30:00 PM,,No,,,,,,
+422,6,Ball State,Central Michigan,10/08/22,03:30:00 PM,,No,,,,,,
+423,6,Toledo,Northern Illinois,10/08/22,03:30:00 PM,,No,,,,,,
+424,6,Kent State,Miami (OH),10/08/22,03:30:00 PM,,No,,,,,,
+425,6,Middle Tennessee,UAB,10/08/22,03:30:00 PM,,No,,,,,,
+426,6,Western Kentucky,UTSA,10/08/22,06:00:00 PM,,No,,,,,,
+427,6,Wyoming,New Mexico,10/08/22,07:00:00 PM,,No,,,,,,
+428,6,Appalachian State,Texas State,10/08/22,07:00:00 PM,,No,,,,,,
+429,6,Southern Miss,Troy,10/08/22,07:00:00 PM,,No,,,,,,
+430,6,UConn,Florida International,10/08/22,07:00:00 PM,,No,,,,,,
+431,6,UTEP,Louisiana Tech,10/08/22,07:00:00 PM,,No,,,,,,
+432,6,BYU,Notre Dame,10/08/22,07:30:00 PM,,No,,,,,,
+433,6,Coastal Carolina,UL Monroe,10/08/22,08:00:00 PM,,No,,,,,,
+434,6,Hawai'i,San Diego State,10/08/22,10:30:00 PM,,No,,,,,,
+435,7,Louisiana,Marshall,10/12/22,07:30:00 PM,,No,,,,,,
+436,7,Baylor,West Virginia,10/13/22,07:00:00 PM,,No,,,,,,
+437,7,Temple,UCF,10/13/22,07:00:00 PM,,No,,,,,,
+438,7,Navy,SMU,10/14/22,07:30:00 PM,,No,,,,,,
+439,7,UTSA,Florida International,10/14/22,08:00:00 PM,,No,,,,,,
+440,7,Arkansas,BYU,10/15/22,,,No,,,,,,
+441,7,LSU,Florida,10/15/22,,,No,,,,,,
+442,7,Vanderbilt,Georgia,10/15/22,,,No,,,,,,
+443,7,Mississippi State,Kentucky,10/15/22,,,No,,,,,,
+444,7,Auburn,Ole Miss,10/15/22,,,No,,,,,,
+445,7,Alabama,Tennessee,10/15/22,,,No,,,,,,
+446,7,Arizona,Washington,10/15/22,,,No,,,,,,
+447,7,California,Colorado,10/15/22,,,No,,,,,,
+448,7,Washington State,Oregon State,10/15/22,,,No,,,,,,
+449,7,USC,Utah,10/15/22,,,No,,,,,,
+450,7,Iowa State,Texas,10/15/22,,,No,,,,,,
+451,7,Kansas,Oklahoma,10/15/22,,,No,,,,,,
+452,7,Oklahoma State,TCU,10/15/22,,,No,,,,,,
+453,7,UConn,Ball State,10/15/22,,,No,,,,,,
+454,7,Gardner-Webb,Liberty,10/15/22,,,No,,,,,,
+455,7,Nebraska,Purdue,10/15/22,,,No,,,,,,
+456,7,Maryland,Indiana,10/15/22,,,No,,,,,,
+457,7,Penn State,Michigan,10/15/22,,,No,,,,,,
+458,7,Wisconsin,Michigan State,10/15/22,,,No,,,,,,
+459,7,New Mexico,New Mexico State,10/15/22,,,No,,,,,,
+460,7,North Carolina,Duke,10/15/22,,,No,,,,,,
+461,7,Clemson,Florida State,10/15/22,,,No,,,,,,
+462,7,NC State,Syracuse,10/15/22,,,No,,,,,,
+463,7,Miami,Virginia Tech,10/15/22,,,No,,,,,,
+464,7,Buffalo,UMass,10/15/22,,,No,,,,,,
+465,7,San José State,Fresno State,10/15/22,,,No,,,,,,
+466,7,Tulane,South Florida,10/15/22,,,No,,,,,,
+467,7,Memphis,East Carolina,10/15/22,,,No,,,,,,
+468,7,Central Michigan,Akron,10/15/22,,,No,,,,,,
+469,7,Northern Illinois,Eastern Michigan,10/15/22,,,No,,,,,,
+470,7,Kent State,Toledo,10/15/22,,,No,,,,,,
+471,7,Miami (OH),Bowling Green,10/15/22,,,No,,,,,,
+472,7,Old Dominion,Coastal Carolina,10/15/22,,,No,,,,,,
+473,7,UL Monroe,South Alabama,10/15/22,,,No,,,,,,
+474,7,Arkansas State,Southern Miss,10/15/22,,,No,,,,,,
+475,7,Colgate,Army,10/15/22,12:00:00 PM,,No,,,,,,
+476,7,Minnesota,Illinois,10/15/22,12:00:00 PM,,No,,,,,,
+477,7,Ohio,Western Michigan,10/15/22,03:30:00 PM,,No,,,,,,
+478,7,Texas State,Troy,10/15/22,03:30:00 PM,,No,,,,,,
+479,7,Charlotte,UAB,10/15/22,03:30:00 PM,,No,,,,,,
+480,7,Western Kentucky,Middle Tennessee,10/15/22,03:30:00 PM,,No,,,,,,
+481,7,James Madison,Georgia Southern,10/15/22,04:00:00 PM,,No,,,,,,
+482,7,Louisiana Tech,North Texas,10/15/22,04:00:00 PM,,No,,,,,,
+483,7,Rice,Florida Atlantic,10/15/22,06:00:00 PM,,No,,,,,,
+484,7,Utah State,Colorado State,10/15/22,07:00:00 PM,,No,,,,,,
+485,7,Stanford,Notre Dame,10/15/22,07:30:00 PM,,No,,,,,,
+486,7,Air Force,UNLV,10/15/22,10:30:00 PM,,No,,,,,,
+487,7,Nevada,Hawai'i,10/15/22,11:59:00 PM,,No,,,,,,
+488,8,Georgia State,Appalachian State,10/19/22,07:30:00 PM,,No,,,,,,
+489,8,Virginia,Georgia Tech,10/20/22,07:30:00 PM,,No,,,,,,
+490,8,Troy,South Alabama,10/20/22,07:30:00 PM,,No,,,,,,
+491,8,Tulsa,Temple,10/21/22,07:30:00 PM,,No,,,,,,
+492,8,UAB,Western Kentucky,10/21/22,08:00:00 PM,,No,,,,,,
+493,8,Mississippi State,Alabama,10/22/22,,,No,,,,,,
+494,8,Ole Miss,LSU,10/22/22,,,No,,,,,,
+495,8,Vanderbilt,Missouri,10/22/22,,,No,,,,,,
+496,8,Texas A&M,South Carolina,10/22/22,,,No,,,,,,
+497,8,UT Martin,Tennessee,10/22/22,,,No,,,,,,
+498,8,Arizona State,Stanford,10/22/22,,,No,,,,,,
+499,8,Washington,California,10/22/22,,,No,,,,,,
+500,8,Colorado,Oregon State,10/22/22,,,No,,,,,,
+501,8,UCLA,Oregon,10/22/22,,,No,,,,,,
+502,8,Kansas,Baylor,10/22/22,,,No,,,,,,
+503,8,Kansas State,TCU,10/22/22,,,No,,,,,,
+504,8,Texas,Oklahoma State,10/22/22,,,No,,,,,,
+505,8,West Virginia,Texas Tech,10/22/22,,,No,,,,,,
+506,8,BYU,Liberty,10/22/22,,,No,,,,,,
+507,8,Iowa,Ohio State,10/22/22,,,No,,,,,,
+508,8,San José State,New Mexico State,10/22/22,,,No,,,,,,
+509,8,Syracuse,Clemson,10/22/22,,,No,,,,,,
+510,8,Pittsburgh,Louisville,10/22/22,,,No,,,,,,
+511,8,Duke,Miami,10/22/22,,,No,,,,,,
+512,8,Boston College,Wake Forest,10/22/22,,,No,,,,,,
+513,8,Fresno State,New Mexico,10/22/22,,,No,,,,,,
+514,8,Utah State,Wyoming,10/22/22,,,No,,,,,,
+515,8,Memphis,Tulane,10/22/22,,,No,,,,,,
+516,8,Cincinnati,SMU,10/22/22,,,No,,,,,,
+517,8,UCF,East Carolina,10/22/22,,,No,,,,,,
+518,8,Northern Illinois,Ohio,10/22/22,,,No,,,,,,
+519,8,Toledo,Buffalo,10/22/22,,,No,,,,,,
+520,8,Western Michigan,Miami (OH),10/22/22,,,No,,,,,,
+521,8,Akron,Kent State,10/22/22,,,No,,,,,,
+522,8,Bowling Green,Central Michigan,10/22/22,,,No,,,,,,
+523,8,Marshall,James Madison,10/22/22,,,No,,,,,,
+524,8,Georgia Southern,Old Dominion,10/22/22,,,No,,,,,,
+525,8,Arkansas State,Louisiana,10/22/22,,,No,,,,,,
+526,8,UL Monroe,Army,10/22/22,12:00:00 PM,,No,,,,,,
+527,8,Indiana,Rutgers,10/22/22,12:00:00 PM,,No,,,,,,
+528,8,Houston,Navy,10/22/22,12:00:00 PM,,No,,,,,,
+529,8,Eastern Michigan,Ball State,10/22/22,02:00:00 PM,,No,,,,,,
+530,8,UNLV,Notre Dame,10/22/22,02:30:00 PM,,No,,,,,,
+531,8,Rice,Louisiana Tech,10/22/22,03:00:00 PM,,No,,,,,,
+532,8,Purdue,Wisconsin,10/22/22,03:30:00 PM,,No,,,,,,
+533,8,Northwestern,Maryland,10/22/22,03:30:00 PM,,No,,,,,,
+534,8,Florida International,Charlotte,10/22/22,03:30:00 PM,,No,,,,,,
+535,8,North Texas,UTSA,10/22/22,03:30:00 PM,,No,,,,,,
+536,8,Hawai'i,Colorado State,10/22/22,04:00:00 PM,,No,,,,,,
+537,8,Florida Atlantic,UTEP,10/22/22,04:00:00 PM,,No,,,,,,
+538,8,Southern Miss,Texas State,10/22/22,05:00:00 PM,,No,,,,,,
+539,8,Boise State,Air Force,10/22/22,07:00:00 PM,,No,,,,,,
+540,8,Minnesota,Penn State,10/22/22,07:30:00 PM,,No,,,,,,
+541,8,San Diego State,Nevada,10/22/22,10:30:00 PM,,No,,,,,,
+542,9,Virginia Tech,NC State,10/27/22,07:30:00 PM,,No,,,,,,
+543,9,Louisiana,Southern Miss,10/27/22,07:30:00 PM,,No,,,,,,
+544,9,Utah,Washington State,10/27/22,10:00:00 PM,,No,,,,,,
+545,9,East Carolina,BYU,10/28/22,08:00:00 PM,,No,,,,,,
+546,9,Louisiana Tech,Florida International,10/28/22,08:00:00 PM,,No,,,,,,
+547,9,Arkansas,Auburn,10/29/22,,,No,,,,,,
+548,9,Missouri,South Carolina,10/29/22,,,No,,,,,,
+549,9,Kentucky,Tennessee,10/29/22,,,No,,,,,,
+550,9,Ole Miss,Texas A&M,10/29/22,,,No,,,,,,
+551,9,USC,Arizona,10/29/22,,,No,,,,,,
+552,9,Arizona State,Colorado,10/29/22,,,No,,,,,,
+553,9,Oregon,California,10/29/22,,,No,,,,,,
+554,9,Stanford,UCLA,10/29/22,,,No,,,,,,
+555,9,Oklahoma,Iowa State,10/29/22,,,No,,,,,,
+556,9,Baylor,Texas Tech,10/29/22,,,No,,,,,,
+557,9,Oklahoma State,Kansas State,10/29/22,,,No,,,,,,
+558,9,TCU,West Virginia,10/29/22,,,No,,,,,,
+559,9,Notre Dame,Syracuse,10/29/22,,,No,,,,,,
+560,9,Northwestern,Iowa,10/29/22,,,No,,,,,,
+561,9,Rutgers,Minnesota,10/29/22,,,No,,,,,,
+562,9,Illinois,Nebraska,10/29/22,,,No,,,,,,
+563,9,Michigan State,Michigan,10/29/22,,,No,,,,,,
+564,9,Ohio State,Penn State,10/29/22,,,No,,,,,,
+565,9,New Mexico State,UMass,10/29/22,,,No,,,,,,
+566,9,Georgia Tech,Florida State,10/29/22,,,No,,,,,,
+567,9,Wake Forest,Louisville,10/29/22,,,No,,,,,,
+568,9,Pittsburgh,North Carolina,10/29/22,,,No,,,,,,
+569,9,Miami,Virginia,10/29/22,,,No,,,,,,
+570,9,Colorado State,Boise State,10/29/22,,,No,,,,,,
+571,9,San Diego State,Fresno State,10/29/22,,,No,,,,,,
+572,9,South Florida,Houston,10/29/22,,,No,,,,,,
+573,9,Cincinnati,UCF,10/29/22,,,No,,,,,,
+574,9,SMU,Tulsa,10/29/22,,,No,,,,,,
+575,9,Toledo,Eastern Michigan,10/29/22,,,No,,,,,,
+576,9,Miami (OH),Akron,10/29/22,,,No,,,,,,
+577,9,Robert Morris,Appalachian State,10/29/22,,,No,,,,,,
+578,9,Old Dominion,Georgia State,10/29/22,,,No,,,,,,
+579,9,Coastal Carolina,Marshall,10/29/22,,,No,,,,,,
+580,9,South Alabama,Arkansas State,10/29/22,,,No,,,,,,
+581,9,Boston College,UConn,10/29/22,12:00:00 PM,,No,,,,,,
+582,9,Charlotte,Rice,10/29/22,02:00:00 PM,,No,,,,,,
+583,9,Florida,Georgia,10/29/22,03:30:00 PM,,No,,,,,,
+584,9,Temple,Navy,10/29/22,03:30:00 PM,,No,,,,,,
+585,9,North Texas,Western Kentucky,10/29/22,03:30:00 PM,,No,,,,,,
+586,9,UAB,Florida Atlantic,10/29/22,07:00:00 PM,,No,,,,,,
+587,9,Middle Tennessee,UTEP,10/29/22,09:00:00 PM,,No,,,,,,
+588,9,Nevada,San José State,10/29/22,10:30:00 PM,,No,,,,,,
+589,9,Wyoming,Hawai'i,10/29/22,11:59:00 PM,,No,,,,,,
+590,10,Ball State,Kent State,11/01/22,,,No,,,,,,
+591,10,Buffalo,Ohio,11/01/22,,,No,,,,,,
+592,10,Central Michigan,Northern Illinois,11/02/22,07:00:00 PM,,No,,,,,,
+593,10,Western Michigan,Bowling Green,11/02/22,07:00:00 PM,,No,,,,,,
+594,10,UTEP,Rice,11/03/22,07:00:00 PM,,No,,,,,,
+595,10,Appalachian State,Coastal Carolina,11/03/22,07:30:00 PM,,No,,,,,,
+596,10,UMass,UConn,11/04/22,07:00:00 PM,,No,,,,,,
+597,10,Duke,Boston College,11/04/22,07:00:00 PM,,No,,,,,,
+598,10,Oregon State,Washington,11/04/22,10:30:00 PM,,No,,,,,,
+599,10,Liberty,Arkansas,11/05/22,,,No,,,,,,
+600,10,Tennessee,Georgia,11/05/22,,,No,,,,,,
+601,10,Alabama,LSU,11/05/22,,,No,,,,,,
+602,10,Auburn,Mississippi State,11/05/22,,,No,,,,,,
+603,10,Kentucky,Missouri,11/05/22,,,No,,,,,,
+604,10,Florida,Texas A&M,11/05/22,,,No,,,,,,
+605,10,South Carolina,Vanderbilt,11/05/22,,,No,,,,,,
+606,10,Arizona,Utah,11/05/22,,,No,,,,,,
+607,10,UCLA,Arizona State,11/05/22,,,No,,,,,,
+608,10,California,USC,11/05/22,,,No,,,,,,
+609,10,Oregon,Colorado,11/05/22,,,No,,,,,,
+610,10,Washington State,Stanford,11/05/22,,,No,,,,,,
+611,10,Baylor,Oklahoma,11/05/22,,,No,,,,,,
+612,10,West Virginia,Iowa State,11/05/22,,,No,,,,,,
+613,10,Oklahoma State,Kansas,11/05/22,,,No,,,,,,
+614,10,Texas,Kansas State,11/05/22,,,No,,,,,,
+615,10,Texas Tech,TCU,11/05/22,,,No,,,,,,
+616,10,Michigan State,Illinois,11/05/22,,,No,,,,,,
+617,10,Minnesota,Nebraska,11/05/22,,,No,,,,,,
+618,10,Ohio State,Northwestern,11/05/22,,,No,,,,,,
+619,10,Iowa,Purdue,11/05/22,,,No,,,,,,
+620,10,Maryland,Wisconsin,11/05/22,,,No,,,,,,
+621,10,Penn State,Indiana,11/05/22,,,No,,,,,,
+622,10,Michigan,Rutgers,11/05/22,,,No,,,,,,
+623,10,James Madison,Louisville,11/05/22,,,No,,,,,,
+624,10,Florida State,Miami,11/05/22,,,No,,,,,,
+625,10,Wake Forest,NC State,11/05/22,,,No,,,,,,
+626,10,Syracuse,Pittsburgh,11/05/22,,,No,,,,,,
+627,10,North Carolina,Virginia,11/05/22,,,No,,,,,,
+628,10,Georgia Tech,Virginia Tech,11/05/22,,,No,,,,,,
+629,10,BYU,Boise State,11/05/22,,,No,,,,,,
+630,10,Colorado State,San José State,11/05/22,,,No,,,,,,
+631,10,Hawai'i,Fresno State,11/05/22,,,No,,,,,,
+632,10,South Florida,Temple,11/05/22,,,No,,,,,,
+633,10,Tulane,Tulsa,11/05/22,,,No,,,,,,
+634,10,Navy,Cincinnati,11/05/22,,,No,,,,,,
+635,10,UCF,Memphis,11/05/22,,,No,,,,,,
+636,10,Houston,SMU,11/05/22,,,No,,,,,,
+637,10,Marshall,Old Dominion,11/05/22,,,No,,,,,,
+638,10,Troy,Louisiana,11/05/22,,,No,,,,,,
+639,10,Georgia State,Southern Miss,11/05/22,,,No,,,,,,
+640,10,Air Force,Army,11/05/22,11:30:00 AM,,No,,,,,,
+641,10,Western Kentucky,Charlotte,11/05/22,12:00:00 PM,,No,,,,,,
+642,10,Middle Tennessee,Louisiana Tech,11/05/22,03:00:00 PM,,No,,,,,,
+643,10,New Mexico,Utah State,11/05/22,03:30:00 PM,,No,,,,,,
+644,10,UTSA,UAB,11/05/22,03:30:00 PM,,No,,,,,,
+645,10,South Alabama,Georgia Southern,11/05/22,04:00:00 PM,,No,,,,,,
+646,10,Florida International,North Texas,11/05/22,04:00:00 PM,,No,,,,,,
+647,10,Texas State,UL Monroe,11/05/22,05:00:00 PM,,No,,,,,,
+648,10,UNLV,San Diego State,11/05/22,07:00:00 PM,,No,,,,,,
+649,10,Clemson,Notre Dame,11/05/22,07:30:00 PM,,No,,,,,,
+650,11,Ball State,Toledo,11/08/22,,,No,,,,,,
+651,11,Eastern Michigan,Akron,11/08/22,,,No,,,,,,
+652,11,Ohio,Miami (OH),11/08/22,,,No,,,,,,
+653,11,Northern Illinois,Western Michigan,11/09/22,07:00:00 PM,,No,,,,,,
+654,11,Buffalo,Central Michigan,11/09/22,07:00:00 PM,,No,,,,,,
+655,11,Kent State,Bowling Green,11/09/22,07:00:00 PM,,No,,,,,,
+656,11,Tulsa,Memphis,11/10/22,07:30:00 PM,,No,,,,,,
+657,11,Georgia Southern,Louisiana,11/10/22,07:30:00 PM,,No,,,,,,
+658,11,East Carolina,Cincinnati,11/11/22,07:30:00 PM,,No,,,,,,
+659,11,Colorado,USC,11/11/22,09:30:00 PM,,No,,,,,,
+660,11,Fresno State,UNLV,11/11/22,10:30:00 PM,,No,,,,,,
+661,11,LSU,Arkansas,11/12/22,,,No,,,,,,
+662,11,Texas A&M,Auburn,11/12/22,,,No,,,,,,
+663,11,South Carolina,Florida,11/12/22,,,No,,,,,,
+664,11,Vanderbilt,Kentucky,11/12/22,,,No,,,,,,
+665,11,Alabama,Ole Miss,11/12/22,,,No,,,,,,
+666,11,Georgia,Mississippi State,11/12/22,,,No,,,,,,
+667,11,Missouri,Tennessee,11/12/22,,,No,,,,,,
+668,11,Arizona,UCLA,11/12/22,,,No,,,,,,
+669,11,Arizona State,Washington State,11/12/22,,,No,,,,,,
+670,11,California,Oregon State,11/12/22,,,No,,,,,,
+671,11,Washington,Oregon,11/12/22,,,No,,,,,,
+672,11,Stanford,Utah,11/12/22,,,No,,,,,,
+673,11,Kansas State,Baylor,11/12/22,,,No,,,,,,
+674,11,Iowa State,Oklahoma State,11/12/22,,,No,,,,,,
+675,11,Kansas,Texas Tech,11/12/22,,,No,,,,,,
+676,11,Oklahoma,West Virginia,11/12/22,,,No,,,,,,
+677,11,TCU,Texas,11/12/22,,,No,,,,,,
+678,11,Purdue,Illinois,11/12/22,,,No,,,,,,
+679,11,Wisconsin,Iowa,11/12/22,,,No,,,,,,
+680,11,Northwestern,Minnesota,11/12/22,,,No,,,,,,
+681,11,Nebraska,Michigan,11/12/22,,,No,,,,,,
+682,11,Rutgers,Michigan State,11/12/22,,,No,,,,,,
+683,11,Indiana,Ohio State,11/12/22,,,No,,,,,,
+684,11,Maryland,Penn State,11/12/22,,,No,,,,,,
+685,11,Lamar,New Mexico State,11/12/22,,,No,,,,,,
+686,11,Louisville,Clemson,11/12/22,,,No,,,,,,
+687,11,Virginia Tech,Duke,11/12/22,,,No,,,,,,
+688,11,Miami,Georgia Tech,11/12/22,,,No,,,,,,
+689,11,Boston College,NC State,11/12/22,,,No,,,,,,
+690,11,Florida State,Syracuse,11/12/22,,,No,,,,,,
+691,11,Pittsburgh,Virginia,11/12/22,,,No,,,,,,
+692,11,North Carolina,Wake Forest,11/12/22,,,No,,,,,,
+693,11,UMass,Arkansas State,11/12/22,,,No,,,,,,
+694,11,San José State,San Diego State,11/12/22,,,No,,,,,,
+695,11,Temple,Houston,11/12/22,,,No,,,,,,
+696,11,SMU,South Florida,11/12/22,,,No,,,,,,
+697,11,UCF,Tulane,11/12/22,,,No,,,,,,
+698,11,Southern Miss,Coastal Carolina,11/12/22,,,No,,,,,,
+699,11,UL Monroe,Georgia State,11/12/22,,,No,,,,,,
+700,11,Appalachian State,Marshall,11/12/22,,,No,,,,,,
+701,11,James Madison,Old Dominion,11/12/22,,,No,,,,,,
+702,11,Texas State,South Alabama,11/12/22,,,No,,,,,,
+703,11,Notre Dame,Navy,11/12/22,12:00:00 PM,,No,,,,,,
+704,11,Liberty,UConn,11/12/22,12:00:00 PM,,No,,,,,,
+705,11,Rice,Western Kentucky,11/12/22,02:00:00 PM,,No,,,,,,
+706,11,Army,Troy,11/12/22,03:30:00 PM,,No,,,,,,
+707,11,New Mexico,Air Force,11/12/22,03:30:00 PM,,No,,,,,,
+708,11,Charlotte,Middle Tennessee,11/12/22,03:30:00 PM,,No,,,,,,
+709,11,Louisiana Tech,UTSA,11/12/22,03:30:00 PM,,No,,,,,,
+710,11,North Texas,UAB,11/12/22,03:30:00 PM,,No,,,,,,
+711,11,Wyoming,Colorado State,11/12/22,07:00:00 PM,,No,,,,,,
+712,11,Florida Atlantic,Florida International,11/12/22,07:00:00 PM,,No,,,,,,
+713,11,Boise State,Nevada,11/12/22,10:30:00 PM,,No,,,,,,
+714,11,Utah State,Hawai'i,11/12/22,11:59:00 PM,,No,,,,,,
+715,12,Bowling Green,Toledo,11/15/22,07:00:00 PM,,No,,,,,,
+716,12,Ohio,Ball State,11/15/22,07:00:00 PM,,No,,,,,,
+717,12,Eastern Michigan,Kent State,11/16/22,,,No,,,,,,
+718,12,Western Michigan,Central Michigan,11/16/22,,,No,,,,,,
+719,12,Miami (OH),Northern Illinois,11/16/22,,,No,,,,,,
+720,12,SMU,Tulane,11/17/22,,,No,,,,,,
+721,12,San Diego State,New Mexico,11/18/22,,,No,,,,,,
+722,12,South Florida,Tulsa,11/18/22,09:00:00 PM,,No,,,,,,
+723,12,Ole Miss,Arkansas,11/19/22,,,No,,,,,,
+724,12,Georgia,Kentucky,11/19/22,,,No,,,,,,
+725,12,East Tennessee State,Mississippi State,11/19/22,,,No,,,,,,
+726,12,New Mexico State,Missouri,11/19/22,,,No,,,,,,
+727,12,Tennessee,South Carolina,11/19/22,,,No,,,,,,
+728,12,UMass,Texas A&M,11/19/22,,,No,,,,,,
+729,12,Florida,Vanderbilt,11/19/22,,,No,,,,,,
+730,12,Washington State,Arizona,11/19/22,,,No,,,,,,
+731,12,Oregon State,Arizona State,11/19/22,,,No,,,,,,
+732,12,Stanford,California,11/19/22,,,No,,,,,,
+733,12,Colorado,Washington,11/19/22,,,No,,,,,,
+734,12,Utah,Oregon,11/19/22,,,No,,,,,,
+735,12,USC,UCLA,11/19/22,,,No,,,,,,
+736,12,TCU,Baylor,11/19/22,,,No,,,,,,
+737,12,Texas Tech,Iowa State,11/19/22,,,No,,,,,,
+738,12,Texas,Kansas,11/19/22,,,No,,,,,,
+739,12,Kansas State,West Virginia,11/19/22,,,No,,,,,,
+740,12,Oklahoma State,Oklahoma,11/19/22,,,No,,,,,,
+741,12,Virginia Tech,Liberty,11/19/22,,,No,,,,,,
+742,12,Iowa,Minnesota,11/19/22,,,No,,,,,,
+743,12,Wisconsin,Nebraska,11/19/22,,,No,,,,,,
+744,12,Northwestern,Purdue,11/19/22,,,No,,,,,,
+745,12,Ohio State,Maryland,11/19/22,,,No,,,,,,
+746,12,Illinois,Michigan,11/19/22,,,No,,,,,,
+747,12,Indiana,Michigan State,11/19/22,,,No,,,,,,
+748,12,Penn State,Rutgers,11/19/22,,,No,,,,,,
+749,12,Miami,Clemson,11/19/22,,,No,,,,,,
+750,12,Louisiana,Florida State,11/19/22,,,No,,,,,,
+751,12,NC State,Louisville,11/19/22,,,No,,,,,,
+752,12,Georgia Tech,North Carolina,11/19/22,,,No,,,,,,
+753,12,Duke,Pittsburgh,11/19/22,,,No,,,,,,
+754,12,Coastal Carolina,Virginia,11/19/22,,,No,,,,,,
+755,12,Syracuse,Wake Forest,11/19/22,,,No,,,,,,
+756,12,Colorado State,Air Force,11/19/22,,,No,,,,,,
+757,12,San José State,Utah State,11/19/22,,,No,,,,,,
+758,12,Houston,East Carolina,11/19/22,,,No,,,,,,
+759,12,Navy,UCF,11/19/22,,,No,,,,,,
+760,12,North Alabama,Memphis,11/19/22,,,No,,,,,,
+761,12,Cincinnati,Temple,11/19/22,,,No,,,,,,
+762,12,Old Dominion,Appalachian State,11/19/22,,,No,,,,,,
+763,12,Georgia State,James Madison,11/19/22,,,No,,,,,,
+764,12,South Alabama,Southern Miss,11/19/22,,,No,,,,,,
+765,12,UAB,LSU,11/19/22,,,No,,,,,,
+766,12,Western Kentucky,Auburn,11/19/22,,,No,,,,,,
+767,12,Austin Peay,Alabama,11/19/22,12:00:00 PM,,No,,,,,,
+768,12,UConn,Army,11/19/22,12:00:00 PM,,No,,,,,,
+769,12,UTSA,Rice,11/19/22,01:00:00 PM,,No,,,,,,
+770,12,Boston College,Notre Dame,11/19/22,02:30:00 PM,,No,,,,,,
+771,12,Akron,Buffalo,11/19/22,03:30:00 PM,,No,,,,,,
+772,12,Utah Tech,BYU,11/19/22,03:30:00 PM,,No,,,,,,
+773,12,UL Monroe,Troy,11/19/22,03:30:00 PM,,No,,,,,,
+774,12,Louisiana Tech,Charlotte,11/19/22,03:30:00 PM,,No,,,,,,
+775,12,Florida Atlantic,Middle Tennessee,11/19/22,03:30:00 PM,,No,,,,,,
+776,12,Florida International,UTEP,11/19/22,04:00:00 PM,,No,,,,,,
+777,12,Arkansas State,Texas State,11/19/22,05:00:00 PM,,No,,,,,,
+778,12,Marshall,Georgia Southern,11/19/22,06:00:00 PM,,No,,,,,,
+779,12,Boise State,Wyoming,11/19/22,07:00:00 PM,,No,,,,,,
+780,12,Fresno State,Nevada,11/19/22,10:30:00 PM,,No,,,,,,
+781,12,UNLV,Hawai'i,11/19/22,11:59:00 PM,,No,,,,,,
+782,13,Ball State,Miami (OH),11/22/22,07:00:00 PM,,No,,,,,,
+783,13,Bowling Green,Ohio,11/22/22,07:00:00 PM,,No,,,,,,
+784,13,Mississippi State,Ole Miss,11/24/22,07:00:00 PM,,No,,,,,,
+785,13,Baylor,Texas,11/25/22,,,No,,,,,,
+786,13,NC State,North Carolina,11/25/22,,,No,,,,,,
+787,13,Utah State,Boise State,11/25/22,12:00:00 PM,,No,,,,,,
+788,13,Central Michigan,Eastern Michigan,11/25/22,12:00:00 PM,,No,,,,,,
+789,13,Toledo,Western Michigan,11/25/22,12:00:00 PM,,No,,,,,,
+790,13,Arizona State,Arizona,11/25/22,03:00:00 PM,,No,,,,,,
+791,13,Arkansas,Missouri,11/25/22,03:30:00 PM,,No,,,,,,
+792,13,New Mexico,Colorado State,11/25/22,03:30:00 PM,,No,,,,,,
+793,13,Nebraska,Iowa,11/25/22,04:00:00 PM,,No,,,,,,
+794,13,UCLA,California,11/25/22,04:30:00 PM,,No,,,,,,
+795,13,Florida,Florida State,11/25/22,07:30:00 PM,,No,,,,,,
+796,13,Wyoming,Fresno State,11/25/22,10:00:00 PM,,No,,,,,,
+797,13,Auburn,Alabama,11/26/22,,,No,,,,,,
+798,13,Georgia Tech,Georgia,11/26/22,,,No,,,,,,
+799,13,Louisville,Kentucky,11/26/22,,,No,,,,,,
+800,13,South Carolina,Clemson,11/26/22,,,No,,,,,,
+801,13,LSU,Texas A&M,11/26/22,,,No,,,,,,
+802,13,Tennessee,Vanderbilt,11/26/22,,,No,,,,,,
+803,13,Oregon,Oregon State,11/26/22,,,No,,,,,,
+804,13,Utah,Colorado,11/26/22,,,No,,,,,,
+805,13,BYU,Stanford,11/26/22,,,No,,,,,,
+806,13,Washington,Washington State,11/26/22,,,No,,,,,,
+807,13,Iowa State,TCU,11/26/22,,,No,,,,,,
+808,13,Kansas,Kansas State,11/26/22,,,No,,,,,,
+809,13,Oklahoma,Texas Tech,11/26/22,,,No,,,,,,
+810,13,West Virginia,Oklahoma State,11/26/22,,,No,,,,,,
+811,13,Notre Dame,USC,11/26/22,,,No,,,,,,
+812,13,Army,UMass,11/26/22,,,No,,,,,,
+813,13,New Mexico State,Liberty,11/26/22,,,No,,,,,,
+814,13,Illinois,Northwestern,11/26/22,,,No,,,,,,
+815,13,Minnesota,Wisconsin,11/26/22,,,No,,,,,,
+816,13,Purdue,Indiana,11/26/22,,,No,,,,,,
+817,13,Rutgers,Maryland,11/26/22,,,No,,,,,,
+818,13,Michigan State,Penn State,11/26/22,,,No,,,,,,
+819,13,Syracuse,Boston College,11/26/22,,,No,,,,,,
+820,13,Wake Forest,Duke,11/26/22,,,No,,,,,,
+821,13,Pittsburgh,Miami,11/26/22,,,No,,,,,,
+822,13,Virginia,Virginia Tech,11/26/22,,,No,,,,,,
+823,13,Nevada,UNLV,11/26/22,,,No,,,,,,
+824,13,East Carolina,Temple,11/26/22,,,No,,,,,,
+825,13,Tulane,Cincinnati,11/26/22,,,No,,,,,,
+826,13,Memphis,SMU,11/26/22,,,No,,,,,,
+827,13,UCF,South Florida,11/26/22,,,No,,,,,,
+828,13,Tulsa,Houston,11/26/22,,,No,,,,,,
+829,13,Akron,Northern Illinois,11/26/22,,,No,,,,,,
+830,13,Kent State,Buffalo,11/26/22,,,No,,,,,,
+831,13,Coastal Carolina,James Madison,11/26/22,,,No,,,,,,
+832,13,Troy,Arkansas State,11/26/22,,,No,,,,,,
+833,13,Old Dominion,South Alabama,11/26/22,,,No,,,,,,
+834,13,Georgia State,Marshall,11/26/22,,,No,,,,,,
+835,13,Michigan,Ohio State,11/26/22,12:00:00 PM,,No,,,,,,
+836,13,Western Kentucky,Florida Atlantic,11/26/22,12:00:00 PM,,No,,,,,,
+837,13,Rice,North Texas,11/26/22,02:00:00 PM,,No,,,,,,
+838,13,Hawai'i,San José State,11/26/22,03:30:00 PM,,No,,,,,,
+839,13,UAB,Louisiana Tech,11/26/22,03:30:00 PM,,No,,,,,,
+840,13,UTEP,UTSA,11/26/22,03:30:00 PM,,No,,,,,,
+841,13,Southern Miss,UL Monroe,11/26/22,05:00:00 PM,,No,,,,,,
+842,13,Louisiana,Texas State,11/26/22,05:00:00 PM,,No,,,,,,
+843,13,Appalachian State,Georgia Southern,11/26/22,06:00:00 PM,,No,,,,,,
+844,13,Middle Tennessee,Florida International,11/26/22,06:00:00 PM,,No,,,,,,
+845,13,Air Force,San Diego State,11/26/22,09:00:00 PM,,No,,,,,,
+846,14,TBD,TBD,12/02/22,,,No,,,,,,
+847,14,TBD,TBD,12/02/22,08:00:00 PM,,No,,,,,,
+848,14,TBD,TBD,12/03/22,,,No,,,,,,
+849,14,TBD,TBD,12/03/22,12:00:00 PM,,No,,,,,,
+850,14,TBD,TBD,12/03/22,12:00:00 PM,,No,,,,,,
+851,14,TBD,TBD,12/03/22,03:30:00 PM,,No,,,,,,
+852,14,TBD,TBD,12/03/22,04:00:00 PM,,No,,,,,,
+853,14,TBD,TBD,12/03/22,04:00:00 PM,,No,,,,,,
+854,14,TBD,TBD,12/03/22,08:00:00 PM,,No,,,,,,
+855,14,TBD,TBD,12/03/22,08:00:00 PM,,No,,,,,,
+856,15,Navy,Army,12/10/22,03:00:00 PM,,No,,,,,,
+KU,Kansas,Kansas Jayhawks,2305
+RUTG,Rutgers,Rutgers Scarlet Knights,164
+GASO,Georgia Southern,Georgia Southern Eagles,290
+SDAK,South Dakota,South Dakota Coyotes,233
+VILL,Villanova,Villanova Wildcats,222
+FSU,Florida State,Florida State Seminoles,52
+MD,Maryland,Maryland Terrapins,120
+UNI,Northern Iowa,Northern Iowa Panthers,2460
+NDSU,North Dakota State,North Dakota State Bison,2449
+UGA,Georgia,Georgia Bulldogs,61
+ND,Notre Dame,Notre Dame Fighting Irish,87
+NIU,Northern Illinois,Northern Illinois Huskies,2459
+UTU,Utah Tech,Utah Tech Trailblazers,3101
+WCU,Western Carolina,Western Carolina Catamounts,2717
+RICH,Richmond,Richmond Spiders,257
+UTEP,UTEP,UTEP Miners,2638
+ORE,Oregon,Oregon Ducks,2483
+CAM,Campbell,Campbell Fighting Camels,2097
+INST,Indiana State,Indiana State Sycamores,282
+DUKE,Duke,Duke Blue Devils,150
+WIU,Western Illinois,Western Illinois Leathernecks,2710
+USU,Utah State,Utah State Aggies,328
+MSU,Michigan State,Michigan State Spartans,127
+USF,South Florida,South Florida Bulls,58
+FRES,Fresno State,Fresno State Bulldogs,278
+TNST,Tennessee State,Tennessee State Tigers,2634
+HOU,Houston,Houston Cougars,248
+ARMY,Army,Army Black Knights,349
+WVU,West Virginia,West Virginia Mountaineers,277
+EKU,Eastern Kentucky,Eastern Kentucky Colonels,2198
+VT,Virginia Tech,Virginia Tech Hokies,259
+NICH,Nicholls,Nicholls Colonels,2447
+WSU,Washington State,Washington State Cougars,265
+ISU,Iowa State,Iowa State Cyclones,66
+TEX,Texas,Texas Longhorns,251
+IDHO,Idaho,Idaho Vandals,70
+UNLV,UNLV,UNLV Rebels,2439
+PSU,Penn State,Penn State Nittany Lions,213
+ALB,Albany,Albany Great Danes,399
+SDSU,San Diego State,San Diego State Aztecs,21
+TOW,Towson,Towson Tigers,119
+UTC,Chattanooga,Chattanooga Mocs,236
+ME,Maine,Maine Black Bears,311
+SELA,SE Louisiana,SE Louisiana Lions,2545
+VMI,VMI,VMI Keydets,2678
+LAM,Lamar,Lamar Cardinals,2320
+MTSU,Middle Tennessee,Middle Tennessee Blue Raiders,2393
+W&M,William & Mary,William & Mary Tribe,2729
+WYO,Wyoming,Wyoming Cowboys,2751
+USA,South Alabama,South Alabama Jaguars,6
+FAMU,Florida A&M,Florida A&M Rattlers,50
+NMSU,New Mexico State,New Mexico State Aggies,166
+UTAH,Utah,Utah Utes,254
+FLA,Florida,Florida Gators,57
+NU,Northwestern,Northwestern Wildcats,77
+BAY,Baylor,Baylor Bears,239
+IOWA,Iowa,Iowa Hawkeyes,2294
+BALL,Ball State,Ball State Cardinals,2050
+CONN,UConn,UConn Huskies,41
+ASU,Arizona State,Arizona State Sun Devils,9
+SDST,South Dakota State,South Dakota State Jackrabbits,2571
+MER,Mercer,Mercer Bears,2382
+CLT,Charlotte,Charlotte 49ers,2429
+JMU,James Madison,James Madison Dukes,256
+ALA,Alabama,Alabama Crimson Tide,333
+MEM,Memphis,Memphis Tigers,235
+CLEM,Clemson,Clemson Tigers,228
+CSU,Colorado State,Colorado State Rams,36
+FAU,Florida Atlantic,Florida Atlantic Owls,2226
+AAMU,Alabama A&M,Alabama A&M Bulldogs,2010
+WEB,Weber State,Weber State Wildcats,2692
+IU,Indiana,Indiana Hoosiers,84
+STAN,Stanford,Stanford Cardinal,24
+UAB,UAB,UAB Blazers,5
+TLSA,Tulsa,Tulsa Golden Hurricane,202
+BCU,Bethune-Cookman,Bethune-Cookman Wildcats,2065
+ELON,Elon,Elon Phoenix,2210
+HBU,Houston Baptist,Houston Baptist Huskies,2277
+WMU,Western Michigan,Western Michigan Broncos,2711
+BSU,Boise State,Boise State Broncos,68
+WISC,Wisconsin,Wisconsin Badgers,275
+MICH,Michigan,Michigan Wolverines,130
+UL,Louisiana,Louisiana Ragin' Cajuns,309
+LSU,LSU,LSU Tigers,99
+LT,Louisiana Tech,Louisiana Tech Bulldogs,2348
+GWEB,Gardner-Webb,Gardner-Webb Bulldogs,2241
+AKR,Akron,Akron Zips,2006
+SUU,Southern Utah,Southern Utah Thunderbirds,253
+YSU,Youngstown State,Youngstown State Penguins,2754
+ILL,Illinois,Illinois Fighting Illini,356
+TENN,Tennessee,Tennessee Volunteers,2633
+AFA,Air Force,Air Force Falcons,2005
+TTU,Texas Tech,Texas Tech Red Raiders,2641
+CHSO,Charleston Southern,Charleston Southern Buccaneers,2127
+WKU,Western Kentucky,Western Kentucky Hilltoppers,98
+ARK,Arkansas,Arkansas Razorbacks,8
+BC,Boston College,Boston College Eagles,103
+UNC,North Carolina,North Carolina Tar Heels,153
+EIU,Eastern Illinois,Eastern Illinois Panthers,2197
+ULM,UL Monroe,UL Monroe Warhawks,2433
+MIZ,Missouri,Missouri Tigers,142
+SC,South Carolina,South Carolina Gamecocks,2579
+MSST,Mississippi State,Mississippi State Bulldogs,344
+TeamID,CollegeName,TeamName,LogoID
+SEMO,Southeast Missouri State,Southeast Missouri State Redhawks,2546
+USC,USC,USC Trojans,30
+UCF,UCF,UCF Knights,2116
+LOU,Louisville,Louisville Cardinals,97
+PRST,Portland State,Portland State Vikings,2502
+SMU,SMU,SMU Mustangs,2567
+SAC,Sacramento State,Sacramento State Hornets,16
+ETSU,East Tennessee State,East Tennessee State Buccaneers,2193
+NWST,Northwestern State,Northwestern State Demons,2466
+VAN,Vanderbilt,Vanderbilt Commodores,238
+STBK,Stony Brook,Stony Brook Seawolves,2619
+RMU,Robert Morris,Robert Morris Colonials,2523
+MTST,Montana State,Montana State Bobcats,147
+TROY,Troy,Troy Trojans,2653
+CIT,The Citadel,The Citadel Bulldogs,2643
+WAKE,Wake Forest,Wake Forest Demon Deacons,154
+NAVY,Navy,Navy Midshipmen,2426
+SFPA,St. Francis (PA),St. Francis (PA) Red Flash,2598
+UCLA,UCLA,UCLA Bruins,26
+SCST,South Carolina State,South Carolina State Bulldogs,2569
+BYU,BYU,BYU Cougars,252
+LAF,Lafayette,Lafayette Leopards,322
+SHSU,Sam Houston,Sam Houston Bearkats,2534
+COLO,Colorado,Colorado Buffaloes,38
+FOR,Fordham,Fordham Rams,2230
+UVA,Virginia,Virginia Cavaliers,258
+UK,Kentucky,Kentucky Wildcats,96
+HOW,Howard,Howard Bison,47
+KENN,Kennesaw State,Kennesaw State Owls,338
+UTSA,UTSA,UTSA Roadrunners,2636
+UNM,New Mexico,New Mexico Lobos,167
+GRAM,Grambling,Grambling Tigers,2755
+ORST,Oregon State,Oregon State Beavers,204
+UNA,North Alabama,North Alabama Lions,2453
+AUB,Auburn,Auburn Tigers,2
+TEM,Temple,Temple Owls,218
+CMU,Central Michigan,Central Michigan Chippewas,2117
+MUR,Murray State,Murray State Racers,93
+OHIO,Ohio,Ohio Bobcats,195
+OSU,Ohio State,Ohio State Buckeyes,194
+WAG,Wagner,Wagner Seahawks,2681
+TCU,TCU,TCU Horned Frogs,2628
+CCSU,Central Connecticut,Central Connecticut Blue Devils,2115
+CAL,California,California Golden Bears,25
+LIB,Liberty,Liberty Flames,2335
+WASH,Washington,Washington Huskies,264
+KSU,Kansas State,Kansas State Wildcats,2306
+M-OH,Miami (OH),Miami (OH) RedHawks,193
+UAPB,Arkansas-Pine Bluff,Arkansas-Pine Bluff Golden Lions,2029
+UNH,New Hampshire,New Hampshire Wildcats,160
+CARK,Central Arkansas,Central Arkansas Bears,2110
+RICE,Rice,Rice Owls,242
+MIA,Miami,Miami Hurricanes,2390
+TULN,Tulane,Tulane Green Wave,2655
+GT,Georgia Tech,Georgia Tech Yellow Jackets,59
+DUQ,Duquesne,Duquesne Dukes,2184
+OKST,Oklahoma State,Oklahoma State Cowboys,197
+USM,Southern Miss,Southern Miss Golden Eagles,2572
+ARST,Arkansas State,Arkansas State Red Wolves,2032
+COLG,Colgate,Colgate Raiders,2142
+EMU,Eastern Michigan,Eastern Michigan Eagles,2199
+BRY,Bryant,Bryant Bulldogs,2803
+FIU,Florida International,Florida International Panthers,2229
+DEL,Delaware,Delaware Blue Hens,48
+SJSU,San José State,San José State Spartans,23
+UNT,North Texas,North Texas Mean Green,249
+APP,Appalachian State,Appalachian State Mountaineers,2026
+CIN,Cincinnati,Cincinnati Bearcats,2132
+ARIZ,Arizona,Arizona Wildcats,12
+TXST,Texas State,Texas State Bobcats,326
+KENT,Kent State,Kent State Golden Flashes,2309
+FUR,Furman,Furman Paladins,231
+APSU,Austin Peay,Austin Peay Governors,2046
+NCAT,North Carolina A&T,North Carolina A&T Aggies,2448
+MISS,Ole Miss,Ole Miss Rebels,145
+NORF,Norfolk State,Norfolk State Spartans,2450
+TAR,Tarleton,Tarleton Texans,2627
+SOU,Southern,Southern Jaguars,2582
+BGSU,Bowling Green,Bowling Green Falcons,189
+MASS,UMass,UMass Minutemen,113
+CP,Cal Poly,Cal Poly Mustangs,13
+SAM,Samford,Samford Bulldogs,2535
+MRSH,Marshall,Marshall Thundering Herd,276
+UTM,UT Martin,UT Martin Skyhawks,2630
+EWU,Eastern Washington,Eastern Washington Eagles,331
+ALCN,Alcorn State,Alcorn State Braves,2016
+ACU,Abilene Christian,Abilene Christian Wildcats,2000
+NEB,Nebraska,Nebraska Cornhuskers,158
+ECU,East Carolina,East Carolina Pirates,151
+UNCO,Northern Colorado,Northern Colorado Bears,2458
+LIU,Long Island University,Long Island University Sharks,112358
+ALST,Alabama State,Alabama State Hornets,2011
+TXSO,Texas Southern,Texas Southern Tigers,2640
+JVST,Jacksonville State,Jacksonville State Gamecocks,55
+TOL,Toledo,Toledo Rockets,2649
+URI,Rhode Island,Rhode Island Rams,227
+NEV,Nevada,Nevada Wolf Pack,2440
+UIW,Incarnate Word,Incarnate Word Cardinals,2916
+NAU,Northern Arizona,Northern Arizona Lumberjacks,2464
+BUCK,Bucknell,Bucknell Bison,2083
+SFA,Stephen F. Austin,Stephen F. Austin Lumberjacks,2617
+NCST,NC State,NC State Wolfpack,152
+ILST,Illinois State,Illinois State Redbirds,2287
+SYR,Syracuse,Syracuse Orange,183
+WOF,Wofford,Wofford Terriers,2747
+PUR,Purdue,Purdue Boilermakers,2509
+UND,North Dakota,North Dakota Fighting Hawks,155
+CCU,Coastal Carolina,Coastal Carolina Chanticleers,324
+IDST,Idaho State,Idaho State Bengals,304
+SIU,Southern Illinois,Southern Illinois Salukis,79
+PITT,Pittsburgh,Pittsburgh Panthers,221
+HAW,Hawai'i,Hawai'i Rainbow Warriors,62
+HC,Holy Cross,Holy Cross Crusaders,107
+TNTC,Tennessee Tech,Tennessee Tech Golden Eagles,2635
+MINN,Minnesota,Minnesota Golden Gophers,135
+MOST,Missouri State,Missouri State Bears,2623
+OU,Oklahoma,Oklahoma Sooners,201
+ODU,Old Dominion,Old Dominion Monarchs,295
+UCD,UC Davis,UC Davis Aggies,302
+GAST,Georgia State,Georgia State Panthers,2247
+MCN,McNeese,McNeese Cowboys,2377
+MORG,Morgan State,Morgan State Bears,2415
+TA&M,Texas A&M,Texas A&M Aggies,245
+BUFF,Buffalo,Buffalo Bulls,2084
